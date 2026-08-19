@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1f6ffdbfa2b7d824e94c1b15f11ad45b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ghostModel: {fileID: 919132149155446097, guid: 74eeb29ac08454a459f4894e18af1a2f,
+      type: 3}
+  - whisperSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
